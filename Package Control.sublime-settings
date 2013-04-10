@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Alignment",
 		"Arduino-like IDE",
 		"CoffeeScript",
 		"Git",
