@@ -12,12 +12,12 @@
 		"LESS",
 		"Markdown Preview",
 		"Package Control",
-		"RspecBuild",
 		"Sass",
 		"SCSS",
+		"SideBarEnhancements",
 		"Stylus",
-		"SublimeGoogle",
+		"SublimeLinter",
 		"SublimeTextGitX",
-		"Theme - Soda"
+		"TrailingSpaces"
 	]
 }

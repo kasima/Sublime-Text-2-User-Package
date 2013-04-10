@@ -1,5 +1,5 @@
 {
-    // The number of spaces a tab is considered equal to
-    "tab_size": 2,
-    "trailing_spaces_highlight_color": "invalid"
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trailing_spaces_highlight_color": "invalid"
 }
