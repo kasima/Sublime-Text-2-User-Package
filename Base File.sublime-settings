@@ -1,0 +1,14 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Color Scheme - Default/Cobalt - Monaco.tmTheme",
+	"font_face": "Menlo",
+	"font_options":
+	[
+	],
+	"font_size": 11.0,
+	"tab_size": 2,
+	"trailing_spaces_highlight_color": "invalid",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"word_wrap": false
+}

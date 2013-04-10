@@ -1,0 +1,16 @@
+{
+	"Arduino_root": "/Applications/Arduino.app",
+	"baudrate": "9600",
+	"board": "Arduino Uno",
+	"full_compilation": false,
+	"global_setting": true,
+	"language": "English",
+	"plugin_root": "/Users/kasima/Library/Application Support/Sublime Text 2/Packages/Arduino-like IDE",
+	"programmer": "AVRISP mkII",
+	"serial_port": "/dev/tty.Bluetooth-Modem",
+	"show_Arduino_menu": false,
+	"show_arduino_menu": false,
+	"show_serial_menu": false,
+	"show_serial_monitor_menu": false,
+	"sketchbook_root": "/Users/kasima/Documents/Arduino"
+}

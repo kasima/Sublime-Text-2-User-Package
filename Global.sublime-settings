@@ -1,0 +1,14 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading
+{
+
+    "overlay_scroll_bars": "system",
+
+    "hot_exit": true,
+
+    // remember_open_files makes the application start up with the last set of
+    // open files. Changing this to false will have no effect if hot_exit is
+    // true
+    "remember_open_files": false
+
+}

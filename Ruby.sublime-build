@@ -1,0 +1,6 @@
+{
+    "cmd": ["/Users/kasima/.rvm/bin/rvm-auto-ruby", "$file"],
+    "env": {"rvm_path" : "/Users/kasima/.rvm"},
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+    "selector": "source.ruby"
+}

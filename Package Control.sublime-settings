@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Arduino-like IDE",
+		"CoffeeScript",
+		"Git",
+		"Haml",
+		"Handlebars",
+		"HTML Mustache",
+		"JSHint",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"RspecBuild",
+		"Sass",
+		"SCSS",
+		"Stylus",
+		"SublimeGoogle",
+		"SublimeTextGitX",
+		"Theme - Soda"
+	]
+}
