@@ -11,6 +11,6 @@
 	"show_Arduino_menu": false,
 	"show_arduino_menu": false,
 	"show_serial_menu": false,
-	"show_serial_monitor_menu": false,
+	"show_serial_monitor_menu": "",
 	"sketchbook_root": "/Users/kasima/Documents/Arduino"
 }
